@@ -55,3 +55,4 @@ RegisterNumber: 25016783
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+To implement  JK flipflop using verilog and validating their functionality using their functional tables is implmented successfully.
